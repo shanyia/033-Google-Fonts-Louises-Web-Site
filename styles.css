@@ -1,0 +1,38 @@
+img {
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color:white;
+     border-style: solid;
+}
+
+body {
+    background-color:lightpink;
+}
+
+p {
+font-family: 'Roboto Mono', monospace;
+color:purple;
+}
+
+h2 {
+    font-family: 'Turret Road', cursive;
+    color:white;
+     border-style: solid;
+}
+
+li {
+    font-family: 'Roboto Mono', monospace;
+    color:purple;
+}
+
+ul{
+    list-style-type: square;
+}
+
+img {
+border-style: outset;
+}
+
